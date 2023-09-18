@@ -397,3 +397,22 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /.vs/TicketAPI/v17/.suo
+/.vs/TicketAPI/DesignTimeBuild/.dtbcache.v2
+/.vs/ProjectEvaluation/ticketapi.metadata.v5.2
+/.vs/ProjectEvaluation/ticketapi.projects.v5.2
+/.vs/TicketAPI/v17/.futdcache.v2
+/Application/obj/Debug/net7.0/Application.assets.cache
+/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Application/obj/project.nuget.cache
+/Infrastructure/obj/Debug/net7.0/Infrastructure.assets.cache
+/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json
+/Infrastructure/obj/project.assets.json
+/Infrastructure/obj/project.nuget.cache
+/TicketAPI/obj/Debug/net7.0/TicketAPI.assets.cache
+/TicketAPI/obj/Debug/net7.0/TicketAPI.csproj.AssemblyReference.cache
+/TicketAPI/obj/project.assets.json
+/TicketAPI/obj/project.nuget.cache
+/TicketAPI/obj/TicketAPI.csproj.nuget.dgspec.json
+/Application/obj/Application.csproj.nuget.dgspec.json
+/Application/obj/project.assets.json
